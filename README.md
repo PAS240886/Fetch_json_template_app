@@ -1,1 +1,1 @@
-# Fetch_json_template_app
+Web application template build with API. Country's information.
