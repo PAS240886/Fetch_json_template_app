@@ -1,1 +1,1 @@
-Web application template build with API. Country's information.
+AJAX Web application template build with API. Country's information.
